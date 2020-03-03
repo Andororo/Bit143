@@ -1,6 +1,7 @@
 //Paul White / Andrew Pham 
 //Problem Created By Mackenzie Decourcy & Hakan Peterson
 //3/3/2020
+//Purpose of program: To create a ramdomized data set that can be used to create a queue by the user. Then pushes into a linked list while discarding duplicate integer values within the data set  
 //Major Assignment 3
 //Utilizing Binary Search Trees
 using System;
